@@ -8,6 +8,9 @@ Full Stack Application using NodeJS, React, React Native and TypeScript
 
 ## Login Page
 
+<img src="/frontend/public/login-freshpizza.jpg" width=800px />
+
+# Dashboard Page
 <img src="/frontend/public/dashboard-freshpizza.jpg" width=800px />
 
 ## Category Page
