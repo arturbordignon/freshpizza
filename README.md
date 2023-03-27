@@ -1,6 +1,6 @@
 # FreshPizza
 
-Full Stack Application using NodeJS, React, React Native and TypeScript
+Full Stack Application using NextJS, NodeJS, React, React Native and TypeScript
 
 <br>
 
